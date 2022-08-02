@@ -1,3 +1,10 @@
+* {
+  box-sizing: border-box;
+  background-color: #121212;
+  margin: 0;
+  padding: 0;
+}
+
 .App {
   text-align: center;
   width: 100vw;
@@ -126,4 +133,8 @@ nav h1 {
 
 #disabled {
   background-color: #3a393c;
+}
+
+.gameOver {
+  font-family: Helvetica, Arial, sans-serif;
 }
